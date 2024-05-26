@@ -11,9 +11,29 @@ body {
     background: #c5c5b2;
     padding: 18px;
 }
+
+#conteudo{
+    padding: 18px;
+    background-color: rgb(255, 255, 255);
+}
+
+#rodape{
+    font-size: 10px;
+    text-align: center;
+    padding: 10px 0 10px 0;
+}
+
 a {
     color: #4b566a;
     text-decoration: none;
     font-weight: bold;
-    
+}
+
+p {
+    text-align: justify;
+}
+
+h1 {
+    color: #828271;
+    font-size: 1.2em;
 }
