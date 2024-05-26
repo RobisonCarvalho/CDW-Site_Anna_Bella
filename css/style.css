@@ -17,10 +17,19 @@ body {
     background-color: rgb(255, 255, 255);
 }
 
+#conteudo-2{
+    background-color: rgb(255, 255, 255);
+    padding: 18px 18px;
+}
+
 #rodape{
     font-size: 10px;
     text-align: center;
     padding: 10px 0 10px 0;
+}
+
+#espaço{
+    height: 500px;
 }
 
 a {
@@ -36,4 +45,8 @@ p {
 h1 {
     color: #828271;
     font-size: 1.2em;
+}
+
+.img-campanha {
+    box-shadow: 4px 4px 7px #aeaeaf;
 }
